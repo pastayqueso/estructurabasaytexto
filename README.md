@@ -6,7 +6,7 @@
         background-repeat:no-repeat;
         background-position:center;
         background-attachment:fixed;
-        background-size:100%;
+        background-size:"100%";
         }
     </style>
 hola soy del grupo 2im2 
