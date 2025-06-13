@@ -1,14 +1,7 @@
 <html>
 </head>
-   <style type="text/css">
-        body{
-        background-image:url("oleo3.jpg");
-        background-repeat:no-repeat;
-        background-position:center;
-        background-attachment:fixed;
-        background-size:"100%";
-        }
-    </style>
+
+<body background= "oleo3.jg">
 hola soy del grupo 2im2 
 me llamo belen
 esta es mi primera pagina web<br><br>
