@@ -140,7 +140,7 @@ pasannnn</marquee>
 <marquee behavior="alternate" bgcolor="gray" direction="right">
 <marquee behavior="alternate" bgcolor="gray" direction="up">
 de veras</marquee></marquee>
-
+<center><a href="https://pastayqueso.github.io/upag/"><img src="menu.png" width=100 heigth=100></center></a>
 <br><br><br>
 </body>
 </html>
